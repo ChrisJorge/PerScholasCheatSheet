@@ -23,8 +23,10 @@
 
 .container{
     display: flex;
-    
-    justify-content: space-around;
+}
+
+.keyWord{
+    margin-right: 250px;
 }
 
 .keyWord p{
@@ -79,3 +81,4 @@
     display: flex;
     align-self: center;  
 }
+
