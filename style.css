@@ -82,3 +82,28 @@
     align-self: center;  
 }
 
+.area{
+    display: flex;
+    justify-content: center;
+}
+.container2{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-template-rows: repeat(9, 1fr);
+}
+
+.word{
+    margin-top: 10px;
+    border: solid black 3px;
+    background-color: #dea165f9;
+    font-size: 35px;
+    text-align: center;
+}
+
+.container2 .definition{
+    margin-top: 10px;
+    border: solid black 3px;
+    margin-left: 10px;
+    color: black;
+    text-align: center;
+}
