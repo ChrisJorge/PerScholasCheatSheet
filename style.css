@@ -1,0 +1,80 @@
+.title{
+    text-align: center;
+    font-size: 55px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.nav a{
+    color: yellow;
+    background-color: black;
+    padding: 15px;
+}
+
+
+.sectionTitle{
+    text-align: center;
+    font-size: 35px;
+}
+
+.container{
+    display: flex;
+    
+    justify-content: space-around;
+}
+
+.keyWord p{
+    font-size: 35px;
+    background-color: aqua;
+    border: solid black 3px;
+    text-align: center;
+    padding: 25px;
+    width: 250px;
+}
+
+.definition{
+    font-size: 25px;
+    
+}
+
+.projectTypes{
+    display: flex;
+}
+
+
+.projectTypes p{
+    text-align: center;
+}
+
+.brownField{
+    width: 50%;
+    border: solid black 3px;  
+    color: aliceblue;
+    background-color: #514007;
+}
+
+.greenField{
+   width: 50%;
+   border: solid black 3px;
+   color: aliceblue;
+   background-color: #20ae13cc;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+}
+.gantt{
+    display: flex;
+    
+}
+
+
+.cntr{
+    display: flex;
+    align-self: center;  
+}
