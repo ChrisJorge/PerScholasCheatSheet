@@ -107,3 +107,28 @@
     color: black;
     text-align: center;
 }
+
+
+.issues{
+    border: solid black 3px;
+    width: 50%;
+    font-size: 25px;
+    background-color: #4f2b0da7;
+}
+
+.issues p{
+    text-align: center;
+}
+
+.risks{
+    margin-left: 10px;
+    border: solid black 3px;
+    width: 50%;
+    font-size: 25px;
+    background-color: #b75e05e2;
+}
+
+.risks p{
+    text-align: center;
+}
+
